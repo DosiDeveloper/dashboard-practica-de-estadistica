@@ -1,6 +1,8 @@
 > Proyecto de prueba
 
 # Estudio de la poblacion por estado de EE.UU. en los años 1967 - 1988
+
+
 Requisitos:
   - Python 3.x
   - streamlit
@@ -16,7 +18,9 @@ Ejecucion:
 ```bash
 streamlit run App.py
 ```
+[Ver pagina desplegada](https://dashboard-practica-de-estadistica.onrender.com)
 
+---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
